@@ -1,0 +1,34 @@
+body{
+        
+    background-color: rgb(213, 103, 235);
+       }
+
+     .mm{
+        width: 250px;
+        padding-left: 250px;
+         
+     }
+
+     .ma{
+
+        width: 250px; 
+        height: 249px;
+        padding-left: 300px;
+     }
+
+     .div{
+         padding-top: 90px;
+         
+     }
+
+     .div1{
+
+        background-color: aliceblue;
+     }
+     .h1{
+         text-align: center;
+         color: rgb(63, 11, 63);
+     }
+     .b{
+         color: rgb(31, 6, 31);
+     }
